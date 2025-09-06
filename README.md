@@ -39,10 +39,32 @@ git clone https://github.com/Abdur-Rahman-Al-Sudais/TickDone.git
 #### (Move into the tickdone folder)
 
 ```bash
-cd TickDone
+cd tickdone
 ```
 
-### 2. Install and run the backend
+### 2. Install and run the frontend
+
+#### (Move into the frontend folder)
+
+```bash
+cd frontend
+```
+
+#### Install all frontend dependencies
+
+```bash
+npm install
+```
+
+#### Start the frontend development server
+
+```bash
+npm run dev
+```
+
+#### Frontend will start at http://localhost:5173 by default
+
+### 3. In a new terminal window/tab, install and run the backend
 
 #### (Move into the backend folder)
 
@@ -65,34 +87,6 @@ npm run dev
 npm run dev
 
 #### Backend will start at http://localhost:3000 by default
-
-### 3. In a new terminal window/tab, install and run the frontend
-
-#### (Move into the frontend folder)
-
-```bash
-cd ../frontend
-```
-
-#### Install all frontend dependencies
-
-```bash
-npm install
-```
-
-#### Start the frontend development server
-
-```bash
-npm run dev
-```
-
-#### Frontend will start at http://localhost:5173 by default
-
-#### Move into the backend folder (if not already there)
-
-```bash
-cd backend
-```
 
 #### Copy .env.example to a new .env file
 
