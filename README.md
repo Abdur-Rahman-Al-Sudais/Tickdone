@@ -33,7 +33,7 @@ Follow these steps to run both the frontend and backend locally.
 #### This will download the project to your local machine:
 
 ```bash
-git clone https://github.com/your-username/TickDone.git
+git clone https://github.com/Abdur-Rahman-Al-Sudais/TickDone.git
 ```
 
 #### (Move into the tickdone folder)
