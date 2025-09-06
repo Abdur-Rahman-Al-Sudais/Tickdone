@@ -39,7 +39,7 @@ git clone https://github.com/Abdur-Rahman-Al-Sudais/TickDone.git
 #### (Move into the tickdone folder)
 
 ```bash
-cd tickdone
+cd TickDone
 ```
 
 ### 2. Install and run the backend
